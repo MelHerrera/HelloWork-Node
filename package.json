@@ -1,0 +1,12 @@
+{
+  "name": "hellowork-node",
+  "version": "1.0.0",
+  "description": "hello work with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ngrok":"ngrok"
+  },
+  "author": "Mherrera",
+  "license": "MIT"
+}
